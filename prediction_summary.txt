@@ -1,0 +1,11 @@
+Total images analyzed: 1977
+Real images: 1627 (82.3%)
+Fake images: 350 (17.7%)
+Average confidence: 0.7210
+
+Top 5 most confident fake detections:
+- a_jvBaxdlGdiakQYkjFQnTpTemc.png: 0.9158
+- kTwDtOKt5AYz8GZRevttWPdnhv8.jpg: 0.9076
+- YEPVMq-hZ4bmEszli09FfdQionM.jpg: 0.8753
+- IJ_CgHeAUh68Op90Tm39f5FwsuA.jpg: 0.8712
+- ORQlaNHBAqSdGZ4pm5Xo2mT0qAU.png: 0.8638
